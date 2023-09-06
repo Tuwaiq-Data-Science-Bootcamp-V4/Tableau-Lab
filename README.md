@@ -9,3 +9,6 @@ Dash must contain:
 - Filter
 - Dash Design
 - Publish Dash
+
+Dashboard link :
+https://public.tableau.com/views/Book1_16940285223980/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
