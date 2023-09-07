@@ -1,11 +1,4 @@
 # Tableau-Lab
 
-
-Build an interactive dashboard using the Titanic dataset.
-
-Dash must contain:
-
-- Three different charts
-- Filter
-- Dash Design
-- Publish Dash
+### Dashboard Link:
+https://prod-apnortheast-a.online.tableau.com/#/site/abdulmohsenalbareed/views/Assignment/Dashboard1
