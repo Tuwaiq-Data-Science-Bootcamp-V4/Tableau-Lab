@@ -9,4 +9,3 @@ Dash must contain:
 - Filter
 - Dash Design
 - Publish Dash
- [Dashboard](https://prod-uk-a.online.tableau.com/t/linah/views/Tableau-Lab/Dashboard1?:origin=card_share_link&:embed=n)
